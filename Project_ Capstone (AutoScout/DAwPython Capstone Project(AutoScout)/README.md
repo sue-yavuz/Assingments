@@ -5,7 +5,7 @@ ___
 ___
 <h1><p style="text-align: center;">Exploratory Data Analysis (EDA) Project</p></h1> 
 
-<blockquote style="background: #f9f9f9;padding: 0.5em 10px;" class="">
+<blockquote style="background: #f9f9f9;padding: 0.5em 10px;" classs="">
 <img src="https://docs.google.com/uc?id=1FOcuE9AkAqc0JU6dUly-cuoUg3bOp92H" class="img-fluid" width="200" height="85"> <h1>EDA for Car Price Prediction Model</h1>
 </blockquote>
 
